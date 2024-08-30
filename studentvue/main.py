@@ -30,7 +30,7 @@ def check_schedule():
             print("Response received:")
             print(response_content)
 
-            discord_webhook_url = "https://discord.com/api/webhooks/1273502986164899891/Y4OT8yvm5HDEbiGVTGoRrzx4WBWsK2NW5Br2yN-x1KY5GTjNTZmaRINnjQ0eHeNnXXeW"
+            discord_webhook_url = ""
             discord_data = {
                 "embeds": [
                     {
